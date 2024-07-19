@@ -1,0 +1,34 @@
+.blog-data-container {
+  width: 100%;
+}
+.title {
+  text-align: center;
+  color: black;
+  font-family: 'Roboto';
+  font-size: 23px;
+  font-weight: 400;
+}
+.arrange {
+  display: flex;
+  align-items: center;
+}
+.avatar-image {
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+}
+.author-name {
+  color: #8e8e8e;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.image-url {
+  width: 100%;
+  height: 150px;
+  border-radius: 10px;
+}
+.content {
+  color: #8e8e8e;
+  font-family: 'Roboto';
+  font-size: 17px;
+}
